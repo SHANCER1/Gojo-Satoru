@@ -15,24 +15,24 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'sanzychan01', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
+	'https://zenzapis.xyz': '4d658e18d01f', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
-global.footer = '©NexusNwInc.'
-global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
+global.owner = ['94725292890']
+global.premium = ['94725292890']
+global.ownernomer = '94725292890'
+global.ownername = '么° 🄼 SHANZ 🥀 | ❤️'
+global.botname = 'SHANZ-BOT'
+global.footer = '©MRSHANZ.'
+global.ig = 'https://pin.it/7ln105o'
+global.region = 'Kandy,Sri lanka'
+global.sc = 'http://wa.me/94704210265'
+global.myweb = 'https://youtube.com/channel/UCX9GuKbYYWJ80O3Kymkn3Uw'
+global.packname = 'SHANZ-BOT BY 么° 🄼 SHANZ 🥀 | ❤️'
+global.author = '么° 🄼 SHANZ 🥀 | ❤️'
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','🌝','😐','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
